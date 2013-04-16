@@ -1,0 +1,275 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">TwoTD.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">TwoTD</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">2</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-36rhSwfwaC,guid=1311c6a49695dc26c268043e00000051</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-iLhuX6</value>
+    <value type="QString">GNOME_KEYRING_PID=2090</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/cs/student/jgo/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTCONTROL=ignoredups</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/cs/student/jgo</value>
+    <value type="QString">HOSTNAME=tick.cs.ucsb.edu</value>
+    <value type="QString">IMSETTINGS_INTEGRATE_DESKTOP=yes</value>
+    <value type="QString">IMSETTINGS_MODULE=none</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/mpich2/lib</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOADEDMODULES=mpich2-i386</value>
+    <value type="QString">LOGNAME=jgo</value>
+    <value type="QString">MAIL=/var/spool/mail/jgo</value>
+    <value type="QString">MANPATH=/usr/share/man/mpich2:/usr/share/man:/usr/local/share/man</value>
+    <value type="QString">MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles</value>
+    <value type="QString">MODULESHOME=/usr/share/Modules</value>
+    <value type="QString">MPI_BIN=/usr/lib/mpich2/bin</value>
+    <value type="QString">MPI_COMPILER=mpich2-i386</value>
+    <value type="QString">MPI_FORTRAN_MOD_DIR=/usr/include/mpich2-i386</value>
+    <value type="QString">MPI_HOME=/usr/lib/mpich2</value>
+    <value type="QString">MPI_INCLUDE=/usr/include/mpich2-i386</value>
+    <value type="QString">MPI_LIB=/usr/lib/mpich2/lib</value>
+    <value type="QString">MPI_MAN=/usr/share/man/mpich2</value>
+    <value type="QString">MPI_PYTHON_SITEARCH=/usr/lib/python2.6/site-packages/mpich2</value>
+    <value type="QString">MPI_SUFFIX=_mpich2</value>
+    <value type="QString">MPI_SYSCONFIG=/etc/mpich2-i386</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-jgo</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/lib/mpich2/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/cs/student/jgo/bin</value>
+    <value type="QString">PWD=/cs/student/jgo</value>
+    <value type="QString">PYTHONPATH=/usr/lib/python2.6/site-packages/mpich2</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/2097,unix/unix:/tmp/.ICE-unix/2097</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-iLhuX6/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=jgo</value>
+    <value type="QString">WINDOWPATH=1</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-jgo-lH3WJU/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=61221c07dd3cc3a8b8e35f4900000015-1299816785.53660-2106276984</value>
+    <value type="QString">XMODIFIERS=@im=none</value>
+    <value type="QString">_=/usr/bin/gnome-session</value>
+    <value type="QString">_LMFILES_=/usr/share/Modules/modulefiles/mpich2-i386</value>
+    <value type="QString">module=() {  eval `/usr/bin/modulecmd bash $*`
+}</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/cs/student/jgo/Desktop/TwoTD/TwoTD.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/qmake-qt4</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/cs/student/jgo/Desktop/TwoTD</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-36rhSwfwaC,guid=1311c6a49695dc26c268043e00000051</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-iLhuX6</value>
+    <value type="QString">GNOME_KEYRING_PID=2090</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/cs/student/jgo/.gtkrc-1.2-gnome2</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTCONTROL=ignoredups</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/cs/student/jgo</value>
+    <value type="QString">HOSTNAME=tick.cs.ucsb.edu</value>
+    <value type="QString">IMSETTINGS_INTEGRATE_DESKTOP=yes</value>
+    <value type="QString">IMSETTINGS_MODULE=none</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/mpich2/lib</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOADEDMODULES=mpich2-i386</value>
+    <value type="QString">LOGNAME=jgo</value>
+    <value type="QString">MAIL=/var/spool/mail/jgo</value>
+    <value type="QString">MANPATH=/usr/share/man/mpich2:/usr/share/man:/usr/local/share/man</value>
+    <value type="QString">MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles</value>
+    <value type="QString">MODULESHOME=/usr/share/Modules</value>
+    <value type="QString">MPI_BIN=/usr/lib/mpich2/bin</value>
+    <value type="QString">MPI_COMPILER=mpich2-i386</value>
+    <value type="QString">MPI_FORTRAN_MOD_DIR=/usr/include/mpich2-i386</value>
+    <value type="QString">MPI_HOME=/usr/lib/mpich2</value>
+    <value type="QString">MPI_INCLUDE=/usr/include/mpich2-i386</value>
+    <value type="QString">MPI_LIB=/usr/lib/mpich2/lib</value>
+    <value type="QString">MPI_MAN=/usr/share/man/mpich2</value>
+    <value type="QString">MPI_PYTHON_SITEARCH=/usr/lib/python2.6/site-packages/mpich2</value>
+    <value type="QString">MPI_SUFFIX=_mpich2</value>
+    <value type="QString">MPI_SYSCONFIG=/etc/mpich2-i386</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-jgo</value>
+    <value type="QString">PATH=/usr/lib/qt4/bin:/usr/lib/qt-3.3/bin:/usr/lib/mpich2/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/lib/ccache:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/cs/student/jgo/bin</value>
+    <value type="QString">PWD=/cs/student/jgo</value>
+    <value type="QString">PYTHONPATH=/usr/lib/python2.6/site-packages/mpich2</value>
+    <value type="QString">QTDIR=/usr/lib/qt4</value>
+    <value type="QString">QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/2097,unix/unix:/tmp/.ICE-unix/2097</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-iLhuX6/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=jgo</value>
+    <value type="QString">WINDOWPATH=1</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-jgo-lH3WJU/database</value>
+    <value type="QString">XDG_SESSION_COOKIE=61221c07dd3cc3a8b8e35f4900000015-1299816785.53660-2106276984</value>
+    <value type="QString">XMODIFIERS=@im=none</value>
+    <value type="QString">_=/usr/bin/gnome-session</value>
+    <value type="QString">_LMFILES_=/usr/share/Modules/modulefiles/mpich2-i386</value>
+    <value type="QString">module=() {  eval `/usr/bin/modulecmd bash $*`
+}</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/cs/student/jgo/Desktop/TwoTD</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
